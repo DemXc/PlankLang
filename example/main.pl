@@ -1,0 +1,10 @@
+START:
+	DISPLAY("Hello World");
+
+EXIT
+
+
+STARTFUNC KeyBoard:
+	READ KEYBOARD(KEY:SPACE);
+
+ENDFUNC
